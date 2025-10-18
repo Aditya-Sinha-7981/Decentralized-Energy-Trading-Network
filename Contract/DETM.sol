@@ -153,12 +153,6 @@ contract EnergyTradingNetwork {
 
 
 
-
-
-
-Hello
-Hello
-Hello
 // AUTO-UPDATE-START
 Updated on 2025-10-18
 // AUTO-UPDATE-END
