@@ -150,9 +150,4 @@ contract EnergyTradingNetwork {
         }
     }
 }
-// AUTO-UPDATE-START
-MIT
-// AUTO-UPDATE-END
-// START
-MIT
-// END
+
