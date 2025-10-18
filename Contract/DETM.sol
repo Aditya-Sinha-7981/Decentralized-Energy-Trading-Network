@@ -150,9 +150,6 @@ contract EnergyTradingNetwork {
         }
     }
 }
-
-
-
 // AUTO-UPDATE-START
 Updated on 2025-10-18
 // AUTO-UPDATE-END
